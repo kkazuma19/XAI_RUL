@@ -14,5 +14,10 @@ The RUL XAI testing utilizes PHM 2008 data.
 
 ## Citations
 ```
-under preparation
+@article{kobayashi2023explainable,
+  title={Explainable, Interpretable \& Trustworthy AI for Intelligent Digital Twin: Case Study on Remaining Useful Life},
+  author={Kobayashi, Kazuma and Almutairi, Bader and Sakib, Md Nazmus and Chakraborty, Souvik and Alam, Syed Bahauddin},
+  year={2023},
+  publisher={Preprints}
+}
 ```
